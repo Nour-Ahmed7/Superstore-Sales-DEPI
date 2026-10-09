@@ -3,15 +3,15 @@
 ---
 
 ## Team Members
-- **[Ahmed Ahmed]**
-- **[Arwa Ebrahim]**
-- **[Karim Essam sayed]**
-- **[Nour Ahmed Mohamed]**
+- **Ahmed Ahmed**
+- **Arwa Ebrahim Ahmed**
+- **Karim Essam sayed**
+- **Nour Ahmed Mohamed**
 
 ---
 
 ## Instructor
-**[Instructor Name]**
+**Amal Mahmoud**
 
 ---
 
